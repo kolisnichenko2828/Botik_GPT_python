@@ -1,13 +1,10 @@
-# API_KEY = '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'
-# API_KEY_OLD = "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"
-# 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
 import copy
 import aiohttp
 import json
 from aiohttp import FormData
 import base64
 
-API_KEY = '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'
+API_KEY = '<API_KEY>'
 
 class OpenaiAPI:
     def __init__(self):
