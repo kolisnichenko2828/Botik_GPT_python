@@ -9,7 +9,7 @@ import asyncio
 from openaiAPI import openai_api
 from translateAPI import tr
 
-API_TOKEN = '6165440909:AAGZQSkGfbzP7I9ypuD0F59K08UogdWCHw4'
+API_TOKEN = '<API_TOKEN>'
 
 class OpenaiTG():
     def __init__(self, dp, bot):
