@@ -1,0 +1,1 @@
+Run("C:\Users\user\Desktop\gpt2\run.bat", , "Hide")
